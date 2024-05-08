@@ -1,26 +1,27 @@
 ..  Documentation du projet - CSUD template
     
 
-Titre du projet (changer dans `source/index.rst`)
-=================================
+ProjetRoguelikeGame
+===================
 
 ..  toctree::
     :maxdepth: 2
     :caption: Table des matières
 
-    plan.md
     presentation.md
     critique.md
     references.rst
 
-
 ..  toctree::
     :maxdepth: 2
-    :caption: Tutoriel Sphinx
+    :caption: Presentation du code
 
-    tutoriel-sphinx/index.rst
-
-
+    ScriptsObjets/item.cs.md
+    ScriptsObjets/ItemData.cs.md
+    ScriptsObjets/Passive.cs.md
+    ScriptsObjets/PassiveData.cs.md
+    PickUps/PickUp.cs.md
+    PickUps/TreasureChest.cs.md
 ..
     Indices and tables
     ==================
