@@ -1,5 +1,3 @@
-(regard-critique)=
-
 # Regard critique et améliorations
 
 - Dans cette partie, vous jetez un retard critique sur votre projet, en

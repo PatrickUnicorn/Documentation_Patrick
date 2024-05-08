@@ -1,4 +1,3 @@
-(plan)=
 # Présentation du projet
 
 ## Qu'est-ce que c'est?
